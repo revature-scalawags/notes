@@ -1,0 +1,24 @@
+# Scala
+- Introduction to functional programming
+- REPL
+- Variables and values
+- Conditionas and Loops
+- Classes and Objects
+- Structure of classes
+- expression vs statements
+- Tuples
+- functions
+- pure and impure functions
+- higher order functions
+- Exception Handling
+- Error handling with try
+- Pattern Matching
+- Scala collections
+- List/Set/Map
+- Filtering & transformation
+- FlatMap
+- Method notation
+- Inheritance
+- Concurrency overview
+- Futures
+- Handling failures
